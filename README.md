@@ -36,3 +36,16 @@ Add the highlighted line to your ```hardhat.config.js``` so that it looks like t
 ```js
 require("@nomicfoundation/hardhat-toolbox");
 ```
+
+## Writing and compiling smart contracts
+
+https://hardhat.org/tutorial/writing-and-compiling-contracts#4.-writing-and-compiling-smart-contracts
+
+
+## Testing Contracts
+
+https://hardhat.org/tutorial/testing-contracts
+
+## Debugging with Hardhat Network
+
+https://hardhat.org/tutorial/debugging-with-hardhat-network
