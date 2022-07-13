@@ -50,4 +50,20 @@ https://hardhat.org/tutorial/testing-contracts
 
 https://hardhat.org/tutorial/debugging-with-hardhat-network
 
-    
+## Deploying to a live network
+
+https://hardhat.org/tutorial/deploying-to-a-live-network
+
+### Loading Environment Variabls
+
+```bash
+npm install dotenv --save
+```
+
+#### Output for ```npx hardhat run scripts/deploy.js --network goerli```
+
+```
+Deploying contracts with the account: 0xEC783571BD926875c024a025a6812fB4E894ba08
+Account balance: 21414747195105721336
+Token address: 0xea7EBe43FdAA7C35Be45cAa5210713116981B3aC
+```
