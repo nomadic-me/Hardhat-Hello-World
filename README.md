@@ -67,3 +67,7 @@ Deploying contracts with the account: 0xEC783571BD926875c024a025a6812fB4E894ba08
 Account balance: 2957500000000000000
 Token address: 0x9A87983E2321cBf4f6E7E4e8d2dB3F6BE74b742C
 ```
+
+Contract visible on Goerli Etherscan: 
+
+https://goerli.etherscan.io/address/0x9a87983e2321cbf4f6e7e4e8d2db3f6be74b742c
