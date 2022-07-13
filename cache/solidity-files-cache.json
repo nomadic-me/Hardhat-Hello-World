@@ -2,7 +2,7 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/satishsurath/Developer/Hardhat-Hello-World/contracts/Token.sol": {
-      "lastModificationDate": 1657712782274,
+      "lastModificationDate": 1657713048028,
       "contentHash": "3d3e3cc47c1b06908c32488ed69693bf",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {

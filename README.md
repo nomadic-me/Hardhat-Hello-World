@@ -64,6 +64,6 @@ npm install dotenv --save
 
 ```
 Deploying contracts with the account: 0xEC783571BD926875c024a025a6812fB4E894ba08
-Account balance: 21414747195105721336
-Token address: 0xea7EBe43FdAA7C35Be45cAa5210713116981B3aC
+Account balance: 2957500000000000000
+Token address: 0x9A87983E2321cBf4f6E7E4e8d2dB3F6BE74b742C
 ```
